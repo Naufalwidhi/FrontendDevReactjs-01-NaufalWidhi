@@ -1,4 +1,4 @@
-============================= SEKAWAN MEDIA TECHNICAL TEST ==============================
+SEKAWAN MEDIA TECHNICAL TEST
 Pemohon : Naufal Widhi A.
 =========================================================================================
 React Js Version : 17.0.2
@@ -10,8 +10,6 @@ How To Start This?
 2. tidak ada username ataupun password jadi bisa langsung diakses
 
 Catatan : - Untuk pengaksesan URL ini hanya bisa dilakukan 15x saja hal ini dikarenakan
-API yang melimit pemakaian hingga 15x.
-
-- Jikalau data tidak tampil dapat menghubungi saya melalui email berikut:
+API yang melimit pemakaian hingga 15x. - Jikalau data tidak tampil dapat menghubungi saya melalui email berikut:
   naufalwidhi1@gmail.com
   =========================================================================================
